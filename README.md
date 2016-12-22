@@ -8,13 +8,13 @@ Place the cleanup.sh file in
 ```
 Execute your script now.
 ```
-./cleanup
+./cleanup.sh
 ```
 
 
 # How to schedule your script to run on Linux
 
-If you haven't already run through "Adding your script to the server" then you will need to return their and finish that step.
+If you haven't already run through "Adding your script to the server" then you will need to return there and finish that step.
 
 First install your cronjob by running this command
 ```
