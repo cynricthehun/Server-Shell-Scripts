@@ -3,6 +3,11 @@ Shell Script to clean up large log files.
 
 # How to schedule on Linux
 
+Place the cleanup.sh file in
+```
+~/bin
+```
+
 First install your cronjob by running this command
 ```
 crontab -e
