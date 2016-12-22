@@ -1,12 +1,20 @@
 # clean_up_logs
 Shell Script to clean up large log files.
 
-# How to schedule on Linux
-
+# Add script to server
 Place the cleanup.sh file in
 ```
 ~/bin
 ```
+Execute your script now.
+```
+./cleanup
+```
+
+
+# How to schedule on Linux
+
+If you haven't already run through "Adding your script to the server" then you will need to return their and finish that step.
 
 First install your cronjob by running this command
 ```
