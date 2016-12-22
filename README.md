@@ -1,7 +1,7 @@
 # clean_up_logs
 Shell Script to clean up large log files.
 
-# Add script to server
+# Adding your script to the server
 Place the cleanup.sh file in
 ```
 ~/bin
