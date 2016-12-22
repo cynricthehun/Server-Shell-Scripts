@@ -12,7 +12,7 @@ Execute your script now.
 ```
 
 
-# How to schedule on Linux
+# How to schedule your script to run on Linux
 
 If you haven't already run through "Adding your script to the server" then you will need to return their and finish that step.
 
